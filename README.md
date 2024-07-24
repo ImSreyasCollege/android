@@ -1,14 +1,12 @@
 <h1 align="center"> Android </h1>
 
-<div align="center">
 
-  `Click to Open`
-</div>
+<h2 align="center">
+  
+  [`1`](#1) [`2`](#2) [`3`](#3) 
+</h2>
 
-<details>
-  <summary>
-    <h3> 1. Display message from the input box in toast </h3>
-  </summary>
+<h3 id="1"> 1. Display message from the input box in toast </h3>
 
 <div align="center">
   
@@ -99,12 +97,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-</details>
 
-<details>
-  <summary>
-    <h3> 2. Display message from the input box in text view </h3>
-  </summary>
+<h3 id="2"> 2. Display message from the input box in text view </h3>
 
 <div align="center">
   
@@ -204,13 +198,9 @@ public class MainActivity extends AppCompatActivity {
     }
 } 
 ```
-</details>
 
-<details>
-  <summary>
-    <h3> 3. Simple calculator </h3>
-  </summary>
-  
+<h3 id="3"> 3. Simple calculator </h3>
+
 <div align="center">
   
   **xml**
