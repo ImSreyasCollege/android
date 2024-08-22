@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
             if (password.equals("admin123")) {
                 Toast.makeText(this, "Login successful", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(MainActivity.this, NewPage.class);
+
                 startActivity(intent);
             } else {
                 Toast.makeText(this, "Wrong password", Toast.LENGTH_SHORT).show();
