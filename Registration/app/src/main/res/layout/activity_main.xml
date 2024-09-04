@@ -51,6 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Male"
+            android:checked="true"
             tools:layout_editor_absoluteX="156dp"
             tools:layout_editor_absoluteY="341dp" />
 
